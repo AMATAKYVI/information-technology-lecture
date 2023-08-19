@@ -1,1 +1,15 @@
-The name PowerShell refers to two things. One is a command line shell, installed, by default on all recent versions of Windows
+	Overview of PowerShell for Sysadmins Automation 
+
+1 Getting Started
+
+The name PowerShell refers to two things. One is a command line shell, installed, by default on all recent versions of Windows and most recently available on linux and macos operating systems via powershell core.
+the other is a scripting language. together they refer to one framework that can be used to automate everything from rebooting 100 servers at once to building a complete automation system that controls your entire data center.
+bash - scripting - cmd (command line)
+
+2 Basic PowerShell Concepts
+
+Four basic concepts in powershell: Variables, data types, objects, and data structures. these concepts are foundamental to just about every common programming language, but there is something that makes powershell distinctive; everything in powershell is an OBJECT>
+
+3 Combining Commands
+
+Starting a window services
